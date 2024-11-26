@@ -1,4 +1,4 @@
-versionCode: 5 
+versionCode: 6
 updateUrl: https://github.com/AaghaFazal/PingySMS/releases/download/v1.1.5/Pingy_SMS_v1.1.5.apk
 expirationDate: 2024-10-01
-expiryVersion: 4
+expiryVersion: 6
