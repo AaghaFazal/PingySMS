@@ -2,3 +2,4 @@ Client1:aa3c5e7b11077cc1
 Client2:1234567890abcdef
 Narzo:1127e56e71173a51
 OPPO:2b3be20fc0772235
+Nord:36ffc62d47b9226f
