@@ -1,4 +1,4 @@
-versionCode: 7
-updateUrl: https://github.com/AaghaFazal/PingySMS/releases/download/v2.3.1/ACW_SMS_v2.3.1.apk
+versionCode: 8
+updateUrl: https://github.com/AaghaFazal/PingySMS/releases/download/v2.4/ACW_SMS_v2.4.apk
 expirationDate: 2024-10-31
-expiryVersion: 6
+expiryVersion: 7
